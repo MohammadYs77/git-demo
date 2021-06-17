@@ -7,5 +7,5 @@ Git and github tutorial repository.
 ## Update
 
 <p>
-Some other updates to readme.
+Some other updates.
 </p>
