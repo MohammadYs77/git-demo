@@ -1,11 +1,9 @@
 # Git Tutorial
 
-<p>
 Git and github tutorial repository.
-</p>
+
+<br>
 
 ## Update
 
-<p>
 Some other updates.
-</p>
